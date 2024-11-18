@@ -5,10 +5,8 @@
 - 🙋 I speak Portuguese, English, Spanish and I am trying to learn Korean;
 - 🥁 I develop random stuff - most of the times chatbots (such as [lastgram](https://github.com/musicorum-app/lastgram) - the last.fm bot for telegram) and other cool stuff (such as [ditto](https://github.com/musicorum-app/ditto), a high-speed service for image generation);
 - 📫 How to reach me:
-  - through Twitter ([@kuntmermaid](https://twitter.com/kuntmermaid)),
   - through Discord ([blueslimee#0511](https://discord.com/users/918911149595045959)),
-  - through Telegram ([@mcthaa](https://t.me/mcthaa)),
-  - or through e-mail (`lyricalsoul (at) proton (dot) me`)
+  - or through e-mail (`martins.renanr (at) gmail (dot) com`)
 
 ## random pretty badges
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
